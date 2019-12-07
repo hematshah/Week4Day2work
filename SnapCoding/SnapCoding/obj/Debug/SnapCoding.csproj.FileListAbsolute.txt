@@ -1,0 +1,6 @@
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\obj\Debug\SnapCoding.csprojAssemblyReference.cache
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\bin\Debug\SnapCoding.exe.config
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\bin\Debug\SnapCoding.exe
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\bin\Debug\SnapCoding.pdb
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\obj\Debug\SnapCoding.exe
+C:\Users\Hemat Shah\Engineering45\week4\Day2\SnapCoding\SnapCoding\obj\Debug\SnapCoding.pdb
